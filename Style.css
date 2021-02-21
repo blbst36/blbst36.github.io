@@ -1,0 +1,26 @@
+  h1 {
+    font-size: 60px;
+    color: blue;
+    font-style: italic;
+  }
+
+  ul {
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    list-style-position: outside;
+  }
+
+  h2{
+      color: green;
+  }
+
+  .redheader{
+      color: darkred;
+      font-size: 16px;
+  }
+
+  .center {
+    text-align: center;
+    vertical-align: middle;
+}
